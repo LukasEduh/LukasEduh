@@ -1,16 +1,24 @@
-## Oiii eu sou o Dudu, criadora de conteúdo de programação e tecnologia!
+## Oiii eu sou o Lucas Eduardo, estuddante de Ciencias da Computação!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+<!-- Stats -->
+
+<h2 align="left">⚡ GitHub Stats ⚡</h2>
+
+<div align="left">
+    <a href="https://github.com/LukasEduh">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=LukasEduh&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=1124&exclude_days=Sun%2CSat&border_radius=8&border=1E2228" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/LukasEduh">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasEduh&layout=compact&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228" alt="Top Languages" />
+    </a>
+    <a href="https://github.com/LukasEduh">
+        <img src="https://github-readme-stats-mu-red-43.vercel.app/api?username=LukasEduh&count_private=true&show_icons=true&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228&custom_title=STATS" alt="GitHub Stats" />
+    </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
 </div>
   
   ##
