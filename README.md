@@ -19,7 +19,7 @@
 <h2 align="left">Language:</h2>
 <div align="left">
     <a href="https://github.com/LukasEduh">
-        <img height="48px" src="https://skillicons.dev/icons?i=cp,py" alt="Skills" />
+        <img height="48px" src="https://skillicons.dev/icons?i=cpp,py" alt="Skills" />
     </a>
 </div>
   
