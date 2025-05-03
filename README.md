@@ -1,4 +1,4 @@
-## Oiii eu sou o Lucas Eduardo, estuddante de Ciencias da Computação!
+## Lucas Eduardo, estudante de Ciencias da Computação!
 
 <!-- Stats -->
 
