@@ -20,5 +20,9 @@
 <div align="left">
     <a href="https://github.com/LukasEduh">
         <img height="48px" src="https://skillicons.dev/icons?i=cpp,py" alt="Skills" />
+        ### 🧰 Tecnologias que uso
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
     </a>
 </div>
