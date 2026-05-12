@@ -18,13 +18,11 @@ Desenvolvedor apaixonado por tecnologia e soluções inteligentes. Especialista 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Inteligência_Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -33,17 +31,17 @@ Desenvolvedor apaixonado por tecnologia e soluções inteligentes. Especialista 
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaseduh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduh&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukasEduh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasEduh&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaseduh&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LukasEduh&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaseduh&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LukasEduh&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
@@ -57,10 +55,13 @@ Desenvolvedor apaixonado por tecnologia e soluções inteligentes. Especialista 
   <a href="https://wa.me/5516988552638?text=Ol%C3%A1%20Lucas%2C%20vi%20seu%20perfil%20no%20GitHub!" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+  <a href="mailto:llucasxd1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucaseduh&color=6366f1&style=flat-square&label=Visitas+no+perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=LukasEduh&color=6366f1&style=flat-square&label=Visitas+no+perfil"/>
 </div>
