@@ -1,10 +1,10 @@
 # Lucas Eduardo 👋
 
-Desenvolvedor apaixonado por tecnologia e soluções inteligentes. Especialista em desenvolvimento web moderno, bancos de dados e aplicações com Inteligência Artificial.
+Desenvolvedor apaixonado por tecnologia e soluções inteligentes. Conhecimento  em desenvolvimento web moderno, bancos de dados e aplicações com Inteligência Artificial.
 
 - 🚀 Focado em construir produtos que fazem diferença
 - 🤖 Explorando o potencial da **Inteligência Artificial** no desenvolvimento
-- 📊 Apaixonado por dados e visualizações
+- 📊 Apaixonado por dados e visualizações de dashboards 
 - ⚡ Sempre aprendendo algo novo
 
 ---
